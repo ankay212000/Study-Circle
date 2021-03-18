@@ -1,16 +1,25 @@
-# solution_challenge
+# Study Circle
+<img src = 'https://github.com/ankay212000/Study-Circle/blob/main/assets/Icons/icon.png' alt = 'Me' align='center' width=300px/>
+This cross-platform app aims to join society which bridge the gap between underprivilege and privileged students. They can learn and grow together by helping each other.
 
-A new Flutter project.
+## Special Thanks to contributors
+<a href="https://github.com/tanvibattu">Tanvi Battu</a>, <a href="https://github.com/im-rh-ansari">Razaul Hasan Ansari</a>, <a href="https://github.com/vineet8588">Vineet Yadav</a>
 
-## Getting Started
+## Requirements
+1. Flutter installed on your system
+2. IDE (preferrably VS Code but sometimes exceptions are thrown that can be easily handled by Android Studios)
+3. Emulator or Physical Device for debugging
+4. Firebase project
 
-This project is a starting point for a Flutter application.
+## How to run
+1. Download the project or clone it
+2. Add an emulator or any physical device in developer mode for debugging
+3. Run the main.dart file
+4. To make changes to database the app should be connected to firebase services hence firebase project need to be there
+5. Run flutter pub get command on your terminal
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+1. Provides blogs to learn subject (currently we have DS Algo, Operating Systems, Computer networks, DBMS)
+2. Individual blogs have various videos to explain it more clearly.
+3. Register problem, let's you share your problem with everyone (Main feature)
+4. Provide help, let's you play your part or give something to society to needy ones (Main feature)
