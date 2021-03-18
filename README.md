@@ -25,16 +25,16 @@ This cross-platform app aims to join society which bridge the gap between underp
 4. Provide help, let's you play your part or give something to society to needy ones (Main feature)
 
 ## Opening of App
-<img src = 'https://github.com/ankay212000/Study-Circle/blob/main/Recordings/Start-Screen.gif' alt = 'Me' align='center' height=500px width=250px/>
+<img src = 'https://github.com/ankay212000/Study-Circle/blob/main/Recordings/Start-Screen.gif' alt = 'Me' align='center' height=400px width=200px/>
 
 ## Subjects
-<img src = 'https://github.com/ankay212000/Study-Circle/blob/main/Recordings/Second-Screen.gif' alt = 'Me' align='center' height=500px width=250px/>
+<img src = 'https://github.com/ankay212000/Study-Circle/blob/main/Recordings/Second-Screen.gif' alt = 'Me' align='center' height=400px width=200px/>
 
 ## Read & Learn
-<img src = 'https://github.com/ankay212000/Study-Circle/blob/main/Recordings/Third-Screen.gif' alt = 'Me' align='center' height=500px width=250px/>
+<img src = 'https://github.com/ankay212000/Study-Circle/blob/main/Recordings/Third-Screen.gif' alt = 'Me' align='center' height=400px width=200px/>
 
 ## Register Problem
-<img src = 'https://github.com/ankay212000/Study-Circle/blob/main/Recordings/4th-Screen.gif' alt = 'Me' align='center' height=500px width=250px/>
+<img src = 'https://github.com/ankay212000/Study-Circle/blob/main/Recordings/4th-Screen.gif' alt = 'Me' align='center' height=400px width=200px/>
 
 ## Help Someone
-<img src = 'https://github.com/ankay212000/Study-Circle/blob/main/Recordings/5th-Screen.gif' alt = 'Me' align='center' height=500px width=250px/>
+<img src = 'https://github.com/ankay212000/Study-Circle/blob/main/Recordings/5th-Screen.gif' alt = 'Me' align='center' height=400px width=200px/>
