@@ -1,6 +1,5 @@
 # Study Circle
 <img src = 'https://github.com/ankay212000/Study-Circle/blob/main/assets/Icons/icon.png' alt = 'Me' align='center' width=300px/>
-This cross-platform app aims to join society which bridge the gap between underprivilege and privileged students. They can learn and grow together by helping each other.
 
 ## Special Thanks to contributors
 <a href="https://github.com/tanvibattu">Tanvi Battu</a>, <a href="https://github.com/im-rh-ansari">Razaul Hasan Ansari</a>, <a href="https://github.com/vineet8588">Vineet Yadav</a>
@@ -38,3 +37,7 @@ This cross-platform app aims to join society which bridge the gap between underp
 
 ## Help Someone
 <img src = 'https://github.com/ankay212000/Study-Circle/blob/main/Recordings/5th-Screen.gif' alt = 'Me' align='center' height=400px width=200px/>
+
+
+### This cross-platform app aims to join society and bridge the gap between underprivilege and privileged students. They can learn and grow together by helping each other.
+
