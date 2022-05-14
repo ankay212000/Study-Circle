@@ -40,4 +40,3 @@
 
 
 ### This cross-platform app aims to join society and bridge the gap between underprivilege and privileged students. They can learn and grow together by helping each other.
-
