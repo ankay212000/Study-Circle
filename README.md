@@ -1,9 +1,6 @@
 # Study Circle
 <img src = 'https://github.com/ankay212000/Study-Circle/blob/main/assets/Icons/icon.png' alt = 'Me' align='center' width=300px/>
 
-## Special Thanks to contributors
-<a href="https://github.com/tanvibattu">Tanvi Battu</a>, <a href="https://github.com/im-rh-ansari">Razaul Hasan Ansari</a>, <a href="https://github.com/vineet8588">Vineet Yadav</a>
-
 ## Requirements
 1. Flutter installed on your system
 2. IDE (preferrably VS Code but sometimes exceptions are thrown that can be easily handled by Android Studios)
